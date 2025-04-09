@@ -28,3 +28,4 @@ TO SEE IT:
   if you have it accessible by other computers (mentioned line 20) then you will need to get the ipv4 address of the host pc and replace localhost with that ip address.
 
   
+I will be adding instructions and pictures for setting this up in OBS at a later time
