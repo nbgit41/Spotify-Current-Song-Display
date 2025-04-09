@@ -1,0 +1,10 @@
+{
+  "spotify_api_info_txt_file": "spotify_secret_dont_put_on_git.txt",
+  "redirect_URI": "http://localhost:8888/callback",
+  "port": 5000,
+  "time_between_checks_in_seconds": 0.5,
+
+  "accessible_by_other_computers_on_local_network": false,
+
+  "deb": false
+}
