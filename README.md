@@ -2,7 +2,7 @@
 A webapp to display the current song playing from spotify
 
 IT IS IMPARITIVE YOU FOLLOW ALL INSTRUCTIONS IN THIS READ ME.
-EVERYTHING IS CURRENTLY BROKEN
+
 make sure the text files and json files are set up the way you want before running the .exe file. (instructions below)
 
 You will need api access information from https://developer.spotify.com/
