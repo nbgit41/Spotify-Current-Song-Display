@@ -11,7 +11,7 @@ Instructions on what info to put where is in the spotify_secret.txt file
 
 MAKE SURE THAT YOU SET THAT UP PROPERLLY BECAUSE IT WILL BREAK AND NOT WORK IF YOU DO IT WRONG THE FIRST TIME
   AND MAKE SURE THAT YOU LOG IN WITH THE CORRECT SPOTIFY ACCOUNT THE FIRST TIME OR ELSE IT WILL ALSO BREAK
-    (if someone knows how to fix it let me know somehow.)
+    you can change accounts by deleting the .cashe file it creates but you will have to recreate the api stuff
 
 Also make sure that the redirect uri in the developer portal is the same as what is in the Song_Title_Config.json file
 
